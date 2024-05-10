@@ -81,15 +81,18 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashank-29&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashank-29&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
-<br clear="both">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashank-29&show_icons=true&locale=en&layout=compact" alt="Shashank-29" /></p>
 
-<img src="https://raw.githubusercontent.com/Shashank-29/Shashank-29/output/snake.svg" alt="Snake animation" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashank-29&show_icons=true&locale=en" alt="Shashank-29" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-29&" alt="Shashank-29" /></p>
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+</picture>
