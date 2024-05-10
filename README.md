@@ -72,10 +72,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="33" alt="instagram logo"  />
   </a>
    <a href="https://www.codechef.com/users/dsub_241" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/11960354?v=4" width="50" height="33" alt="codechef logo"  />
+    <img src="https://avatars.githubusercontent.com/u/11960354?v=4" width="40" height="40" alt="codechef logo"  />
   </a>
   <a href="https://leetcode.com/u/shashank-29/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="50" height="33" alt="leetcode logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="40" height="40" alt="leetcode logo"  />
   </a>
 </div>
 
